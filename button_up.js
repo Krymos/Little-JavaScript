@@ -1,3 +1,5 @@
+'use strict';
+
 let upArrow = document.createElement('div');
 upArrow.id = 'up-arrow';
 
