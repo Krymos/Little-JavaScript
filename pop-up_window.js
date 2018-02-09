@@ -1,7 +1,5 @@
 'use strict';
 
-/* WINDOW */
-
 if (!sessionStorage.getItem("isTimerSet")) { 
 // существует ли ключ isTimerSet во временном хранилище браузера?
 	sessionStorage.setItem("isTimerSet", true);
